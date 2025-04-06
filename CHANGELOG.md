@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-10)
+## Unreleased (2025-04-06)
 
 <section class="features">
 
@@ -34,6 +34,8 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`4760d21`](https://github.com/stdlib-js/stdlib/commit/4760d213de7e085a75510d02f65f1c3fdd12b90c) - **docs:** fix C Doxygen return tag _(by Philipp Burckhardt)_
+-   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`c7bfa92`](https://github.com/stdlib-js/stdlib/commit/c7bfa923af0c5346766c90300e0d0a3c2188d438) - **docs:** fix missing ending `section` in various READMEs [(#5292)](https://github.com/stdlib-js/stdlib/pull/5292) _(by Saurabh Singh)_
 -   [`e5880d1`](https://github.com/stdlib-js/stdlib/commit/e5880d18a941b1bb088cf9d55ee3e39a20e21938) - **feat:** add C implementation for `stats/base/dists/uniform/logcdf` [(#4140)](https://github.com/stdlib-js/stdlib/pull/4140) _(by Prashant Kumar Yadav, Philipp Burckhardt, stdlib-bot)_
 -   [`273d9f1`](https://github.com/stdlib-js/stdlib/commit/273d9f168ed5293a563e6748219f79a033e7ca8a) - **bench:** refactor random number generation in benchmarks for `stats/base/dists/uniform` [(#5176)](https://github.com/stdlib-js/stdlib/pull/5176) _(by Gaurav, Philipp Burckhardt, stdlib-bot)_
@@ -48,9 +50,10 @@ A total of 2 issues were closed in this release:
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Gaurav
+-   Karan Anand
 -   Philipp Burckhardt
 -   Prashant Kumar Yadav
 -   Saurabh Singh
