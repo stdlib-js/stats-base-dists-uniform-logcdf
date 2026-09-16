@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-13)
+## Unreleased (2026-09-16)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`2bb4167`](https://github.com/stdlib-js/stdlib/commit/2bb4167e07517f7abf40b4f095cc4cac3b9afab6) - **test:** migrate `stats/base/dists/uniform/logcdf` to ULP-based assertions [(#15253)](https://github.com/stdlib-js/stdlib/pull/15253) _(by Aryan kumar)_
 -   [`cae5335`](https://github.com/stdlib-js/stdlib/commit/cae53357950b4c389b0020878c268995cd79d222) - **docs:** propagate develop fixes to sibling packages [(#12736)](https://github.com/stdlib-js/stdlib/pull/12736) _(by Philipp Burckhardt)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Aryan kumar
 -   Philipp Burckhardt
 
 </section>
